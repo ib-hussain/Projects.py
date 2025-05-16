@@ -48,7 +48,7 @@ These projects helped reinforce:
 
 <ul>
   <li>
-    <strong>data_cleaning/</strong> – Scripts and notebooks for cleaning and preprocessing raw datasets.
+    <strong>data_cleaning/</strong> – Scripts and notebooks for cleaning and preprocessing raw datasets. 
   </li>
   <li>
     <strong>nlp_urdu_sentiment/</strong> – NLP tasks focused on Urdu text processing and sentiment analysis.

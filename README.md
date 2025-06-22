@@ -1,10 +1,12 @@
 # Python Projects 
 
 This repository contains a collection of Python-based projects focusing on **data cleaning**, **natural language processing (NLP)**, **statistical analysis**, and **basic machine learning**. These projects reflect my applied learning during my Data Science degree at FAST University, Islamabad.
+
 <p align="center">
   <img src="python.jpg" alt="Python Projects">
 </p>
-## 🧠 Projects Overview
+
+## Projects Overview
 
 ### 🔹 Data Cleaning & Preprocessing
 - Cleaned and transformed medium- to large-scale datasets using `pandas` and `NumPy`.
@@ -34,10 +36,11 @@ This repository contains a collection of Python-based projects focusing on **dat
   - Image loading, manipulation, thresholding  
   - Basic filtering and contour detection
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** Python  
 - **Libraries:** pandas, NumPy, matplotlib, scikit-learn, NLTK, OpenCV, scipy  
 - **Tools:** Jupyter Notebook, Git, VS Code
+<<<<<<< HEAD
 
 ## Learning Outcomes
 These projects helped reinforce:
@@ -68,3 +71,8 @@ These projects helped reinforce:
     <strong>README.md</strong> – Project overview and documentation.
   </li>
 </ul>
+=======
+---
+
+*If you find this repository useful or have suggestions for improvement, feel free to fork, open an issue, or leave a ⭐!*
+>>>>>>> 4da3fd94ccc6ff552df4b29dee9d5c0658b99fbd

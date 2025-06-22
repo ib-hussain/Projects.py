@@ -1,7 +1,9 @@
-# Python Data Projects 🧪
+# Python Projects 
 
 This repository contains a collection of Python-based projects focusing on **data cleaning**, **natural language processing (NLP)**, **statistical analysis**, and **basic machine learning**. These projects reflect my applied learning during my Data Science degree at FAST University, Islamabad.
-
+<p align="center">
+  <img src="python.jpg" alt="Python Projects">
+</p>
 ## 🧠 Projects Overview
 
 ### 🔹 Data Cleaning & Preprocessing
@@ -37,7 +39,7 @@ This repository contains a collection of Python-based projects focusing on **dat
 - **Libraries:** pandas, NumPy, matplotlib, scikit-learn, NLTK, OpenCV, scipy  
 - **Tools:** Jupyter Notebook, Git, VS Code
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 These projects helped reinforce:
 - Practical data science workflows  
 - Text and image data handling  
@@ -66,15 +68,3 @@ These projects helped reinforce:
     <strong>README.md</strong> – Project overview and documentation.
   </li>
 </ul>
-
-
-
-## 👤 Author
-**Ibrahim Hussain**  
-Data Science undergraduate student at FAST University, Islamabad  
-📧 ibrahimbeaconarion@gmail.com  
-🔗 [github.com/ib-hussain](https://github.com/ib-hussain)
-
----
-
-*If you find this repository useful or have suggestions for improvement, feel free to fork, open an issue, or leave a ⭐!*

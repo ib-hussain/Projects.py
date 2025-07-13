@@ -1,6 +1,6 @@
 # Python Projects 
 
-This repository contains a collection of Python-based projects focusing on **data cleaning**, **natural language processing (NLP)**, **statistical analysis**, and **basic machine learning**. These projects reflect my applied learning during my Data Science degree at FAST University, Islamabad.
+This repository contains a collection of Python-based projects focusing on **data cleaning**, **statistical analysis**, **basic machine learning**, **Natural Language Processing (NLP)**, and **Computer Vision (CV)**. These projects reflect my applied learning during my Data Science degree at FAST University, Islamabad.
 
 <p align="center">
   <img src="python.jpg" alt="Python Projects">
@@ -24,7 +24,7 @@ This repository contains a collection of Python-based projects focusing on **dat
 - Used Python libraries like `scipy` and `statsmodels` to implement:
   - Hypothesis testing  
   - Regression models  
-  - Probability distributions and exploratory data analysis (EDA)
+  - Probabilistic Inflation Prediction
 
 ### 🔹 Introductory Machine Learning
 - Built basic models for classification and clustering using `scikit-learn`.
@@ -37,42 +37,34 @@ This repository contains a collection of Python-based projects focusing on **dat
   - Basic filtering and contour detection
 
 ## Tech Stack
-- **Languages:** Python  
+- **Languages:** Python, R  
 - **Libraries:** pandas, NumPy, matplotlib, scikit-learn, NLTK, OpenCV, scipy  
 - **Tools:** Jupyter Notebook, Git, VS Code
-<<<<<<< HEAD
 
 ## Learning Outcomes
 These projects helped reinforce:
 - Practical data science workflows  
 - Text and image data handling  
-- Statistical reasoning and implementation in Python  
+- Statistical analysis and ML implementation in Python  
 - Clear and modular code structuring
 
 <h3>📁 Repository Structure</h3>
 
 <ul>
   <li>
-    <strong>data_cleaning/</strong> – Scripts and notebooks for cleaning and preprocessing raw datasets. 
+    <strong>Data Cleaning/</strong> – Scripts and notebooks for cleaning and preprocessing raw datasets. 
   </li>
   <li>
-    <strong>nlp_urdu_sentiment/</strong> – NLP tasks focused on Urdu text processing and sentiment analysis.
+    <strong>NLP/</strong> – Tasks focused on text processing and sentiment analysis and text classificiation.
   </li>
   <li>
-    <strong>statistical_analysis/</strong> – Implementation of statistical tests, regression models, and exploratory data analysis (EDA).
+    <strong>Statistical Analysis/</strong> – Implementation of statistical tests, regression models, and exploratory data analysis (EDA).
   </li>
   <li>
-    <strong>basic_ml_models/</strong> – Introductory machine learning models and evaluation workflows.
+    <strong>Basis Ml Models/</strong> – Introductory machine learning models and evaluation workflows.
   </li>
   <li>
-    <strong>opencv_experiments/</strong> – Beginner-level image processing experiments using OpenCV.
-  </li>
-  <li>
-    <strong>README.md</strong> – Project overview and documentation.
+    <strong>Computer Vision/</strong> – Beginner-level image processing experiments using OpenCV.
   </li>
 </ul>
-=======
 ---
-
-*If you find this repository useful or have suggestions for improvement, feel free to fork, open an issue, or leave a ⭐!*
->>>>>>> 4da3fd94ccc6ff552df4b29dee9d5c0658b99fbd

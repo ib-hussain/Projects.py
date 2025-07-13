@@ -66,6 +66,3 @@ These projects helped reinforce:
     <strong>Computer Vision</strong><br> Beginner-level image processing experiments using OpenCV.
   </li>
 </ul>
-
-
----

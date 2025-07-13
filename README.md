@@ -49,22 +49,23 @@ These projects helped reinforce:
 - Clear and modular code structuring
 
 <h3>📁 Repository Structure</h3>
-
 <ul>
   <li>
-    <strong>Data Cleaning/</strong> – Scripts and notebooks for cleaning and preprocessing raw datasets. 
+    <strong>Data Cleaning</strong><br> Scripts and notebooks for cleaning and preprocessing raw datasets. 
   </li>
   <li>
-    <strong>NLP/</strong> – Tasks focused on text processing and sentiment analysis and text classificiation.
+    <strong>NLP</strong><br> Tasks focused on text processing and sentiment analysis and text classificiation.
   </li>
   <li>
-    <strong>Statistical Analysis/</strong> – Implementation of statistical tests, regression models, and exploratory data analysis (EDA).
+    <strong>Statistical Analysis</strong><br> Implementation of statistical tests, regression models, and exploratory data analysis (EDA).
   </li>
   <li>
-    <strong>Basis Ml Models/</strong> – Introductory machine learning models and evaluation workflows.
+    <strong>Basis Ml Models</strong><br> Introductory machine learning models and evaluation workflows.
   </li>
   <li>
-    <strong>Computer Vision/</strong> – Beginner-level image processing experiments using OpenCV.
+    <strong>Computer Vision</strong><br> Beginner-level image processing experiments using OpenCV.
   </li>
 </ul>
+
+
 ---

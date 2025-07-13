@@ -21,7 +21,7 @@ This repository contains a collection of Python-based projects focusing on **dat
 - Addressed challenges in Urdu text processing, such as script inconsistencies and non-standard grammar.
 
 ### 🔹 Statistical Analysis
-- Used Python libraries like `scipy` and `statsmodels` to implement:
+- Used Python libraries like `scipy`, `statsmodels`, `statistics`, `seaborn`, `sklearn` and `plotly` to implement:
   - Hypothesis testing  
   - Regression models  
   - Probabilistic Inflation Prediction

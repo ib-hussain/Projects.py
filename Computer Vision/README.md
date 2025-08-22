@@ -1,9 +1,4 @@
 <h1 align="center">Computer Vision Basics</h1>
-<p>
-  Beginner Projects — CV Practice with Python, OpenCV & NumPy<br>
-  <strong>Author:</strong> Hussain Ibrahim
-</p>
-
 <h2>Overview</h2>
 <p>
   This repository contains small-scale computer vision exercises designed for beginners. 

@@ -1,4 +1,4 @@
-# Python Projects 
+<h1 align="center">Python Projects</h1>
 
 This repository contains a collection of Python-based projects focusing on **data cleaning**, **statistical analysis**, **basic machine learning**, **Natural Language Processing (NLP)**, and **Computer Vision (CV)**. These projects reflect my applied learning during my Data Science degree at FAST University, Islamabad.
 

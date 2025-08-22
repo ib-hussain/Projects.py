@@ -29,7 +29,7 @@ my_palette <- viridis(7, option = "D")
 #-------------------------------------------------------
 
 # Read the data
-data <- read.csv("Inflation_Dataset_v2.csv")
+data <- read.csv("data/Inflation_Dataset_v2.csv")
 
 # Rename variables for easier reference
 names(data) <- c("Country", "Year", "Inflation", "MoneyGrowth", "FoodImports", 

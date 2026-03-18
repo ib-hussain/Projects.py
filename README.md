@@ -60,7 +60,7 @@ These projects helped reinforce:
     <strong>Statistical Analysis</strong><br> Implementation of statistical tests, regression models, and exploratory data analysis (EDA).
   </li>
   <li>
-    <strong>Basis Ml Models</strong><br> Introductory machine learning models and evaluation workflows.
+    <strong>Basis ML Models</strong><br> Introductory machine learning models and evaluation workflows.
   </li>
   <li>
     <strong>Computer Vision</strong><br> Beginner-level image processing experiments using OpenCV.

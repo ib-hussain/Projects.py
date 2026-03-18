@@ -1,7 +1,7 @@
 <h1 align="center">Inflation Dynamics in Pakistan: A Statistical Analysis</h1>
 <p>
   Advanced Statistics — Final Project<br>
-  <strong>Authors:</strong> Hussain Ibrahim, Mahd Kazmi, Sameer Khan
+  <strong>Authors:</strong> <a href="https://github.com/ib-hussain">Ibrahim Hussain</a>, <a href="https://github.com/Mahdkazmi">Mahd Kazmi</a>, <a href="https://github.com/Sameer-Khan08">Sameer Khan</a>  
 </p>
 <h2>Overview</h2>
 <p>
